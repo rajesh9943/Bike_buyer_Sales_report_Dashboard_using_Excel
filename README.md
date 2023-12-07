@@ -2,4 +2,5 @@
 As part of the Prepinsta Winter Data Analytics Internship Program, this week's assignment focuses on cleaning and analyzing the Kawasaki Ninja H2R Bike buyer dataset using Excel.
 
 # Dashboard
-![Screenshot (114)](https://github.com/rajesh9943/Preinsta_Winter_Data_Analytics_Internship_Assignment-1/assets/98160008/f12343d8-e24e-486b-ad3a-5fd0f8143ce8)
+
+![Screenshot (114)](https://github.com/rajesh9943/Preinsta_Winter_Data_Analytics_Internship_Assignment-1/assets/98160008/f9f3e24d-b51b-4f5b-b46b-b5deb34c3b41)
