@@ -1,5 +1,6 @@
 # Developing an Eye-Catching Dashboard for Bike Buyer Analysis in Excel
 As part of the Prepinsta Winter Data Analytics Internship Program, this week's assignment focuses on cleaning and analyzing the Kawasaki Ninja H2R Bike buyer dataset using Excel.
+This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used to build the dashboard in Google Sheets. There are some NA (Null / Empty) values injected in the dataset. Use this dataset for Data Cleaning, Exploration, and Visualization.
 
 # Dashboard
 
